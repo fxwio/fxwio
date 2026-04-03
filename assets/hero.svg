@@ -1,0 +1,45 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fuxiang Wang profile banner</title>
+  <desc id="desc">Go backend engineer and AI infrastructure builder focused on gateways, retrieval systems, and releasable services.</desc>
+  <rect width="1280" height="360" rx="32" fill="#F7F2ED"/>
+  <rect x="16" y="16" width="1248" height="328" rx="24" stroke="#E6C4B8" stroke-width="2"/>
+  <g opacity="0.45">
+    <path d="M64 72H560" stroke="#E6C4B8"/>
+    <path d="M64 104H560" stroke="#E6C4B8"/>
+    <path d="M64 136H560" stroke="#E6C4B8"/>
+    <path d="M64 168H560" stroke="#E6C4B8"/>
+    <path d="M64 200H560" stroke="#E6C4B8"/>
+    <path d="M64 232H560" stroke="#E6C4B8"/>
+    <path d="M64 264H560" stroke="#E6C4B8"/>
+    <path d="M64 296H560" stroke="#E6C4B8"/>
+  </g>
+  <g opacity="0.5">
+    <path d="M760 56V304" stroke="#E6C4B8"/>
+    <path d="M816 56V304" stroke="#E6C4B8"/>
+    <path d="M872 56V304" stroke="#E6C4B8"/>
+    <path d="M928 56V304" stroke="#E6C4B8"/>
+    <path d="M984 56V304" stroke="#E6C4B8"/>
+    <path d="M1040 56V304" stroke="#E6C4B8"/>
+    <path d="M1096 56V304" stroke="#E6C4B8"/>
+    <path d="M1152 56V304" stroke="#E6C4B8"/>
+    <path d="M1208 56V304" stroke="#E6C4B8"/>
+  </g>
+  <path d="M776 296C839 238 904 210 969 212C1033 214 1089 257 1140 296" stroke="#D97757" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="1088" cy="138" r="96" stroke="#D97757" stroke-width="2" opacity="0.8"/>
+  <circle cx="1088" cy="138" r="56" stroke="#D97757" stroke-width="2" opacity="0.5"/>
+  <circle cx="1088" cy="138" r="10" fill="#D97757"/>
+  <path d="M970 92L1008 130L970 168" stroke="#1F2937" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1206 92L1168 130L1206 168" stroke="#1F2937" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="830" y="228" width="104" height="34" rx="17" fill="#FFF9F5" stroke="#D97757"/>
+  <rect x="952" y="228" width="86" height="34" rx="17" fill="#FFF9F5" stroke="#D97757"/>
+  <rect x="1056" y="228" width="110" height="34" rx="17" fill="#FFF9F5" stroke="#D97757"/>
+  <text x="882" y="250" text-anchor="middle" fill="#1F2937" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="16">Gateway</text>
+  <text x="995" y="250" text-anchor="middle" fill="#1F2937" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="16">RAG</text>
+  <text x="1111" y="250" text-anchor="middle" fill="#1F2937" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="16">Release</text>
+  <text x="72" y="72" fill="#D97757" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="18" letter-spacing="4">FXWIO / PROFILE</text>
+  <text x="72" y="146" fill="#1F2937" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="56" font-weight="700">Fuxiang Wang</text>
+  <text x="72" y="194" fill="#374151" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="24">Go Backend Engineer + AI Infrastructure Builder</text>
+  <text x="72" y="244" fill="#1F2937" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="26">Building gateways, retrieval systems, and releasable</text>
+  <text x="72" y="278" fill="#1F2937" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="26">services with clarity, observability, and performance</text>
+  <text x="72" y="312" fill="#1F2937" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="26">in mind.</text>
+</svg>

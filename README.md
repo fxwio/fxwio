@@ -1,59 +1,54 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=200&section=header&text=fxwio&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header" />
-
-  <h1>👋 Hi, I'm fxwio </h1>
-  <h3>Senior Backend Engineer ⚡ AI Application Developer</h3>
-  <p><i>Building high-performance infrastructure and exploring the frontiers of AI.</i></p>
-
-  <a href="mailto:wang.fuxiang@outlook.com">
-    <img src="https://img.shields.io/badge/Contact-Email-00ADD8?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/fxwio">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-With **5 years of deep-dive experience in Go**, I specialize in architecting high-concurrency, scalable backend systems. My engineering philosophy revolves around simplicity, observability, and robust performance. 
-
-Currently, I am heavily focused on **AI Application Development**, leveraging Go's phenomenal concurrency model to build the next generation of AI infrastructure—from high-throughput LLM gateways to efficient RAG (Retrieval-Augmented Generation) pipelines.
-
-<br/>
-
-## 🛠️ Technical Arsenal
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
+<p align="center">
+  <img src="./assets/hero.svg" alt="Fuxiang Wang profile banner" />
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://ccyaa.cn">Blog</a>
+  <span> · </span>
+  <a href="https://github.com/fxwio">GitHub</a>
+  <span> · </span>
+  <a href="mailto:wang.fuxiang@outlook.com">Email</a>
+</p>
 
-## 🚀 Current Focus: Bridging Go & AI
+<p align="center">
+  Go backend engineering, AI infrastructure, and production-minded systems design.
+</p>
 
-- 🧠 **AI Application Infrastructure:** Designing tools that make LLM integration seamless for enterprise backends.
-- ⚡ **Go-LLM-Gateway:** (In Development) A zero-allocation, highly concurrent API gateway for multi-model AI orchestration.
-- 📊 **Vector Search Optimization:** Exploring efficient embedding processing and RAG data pipelines.
+## About
 
-<br/>
+I build Go services for AI workloads: gateways, retrieval systems, and the operational tooling around release, observability, and performance.
 
-## 📈 Engineering Analytics
+My bias is toward small surfaces, explicit boundaries, and systems that stay understandable under load and during failure.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fxwio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxwio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+## Selected Work
 
-<br/>
+### [Strait](https://github.com/fxwio/strait)
 
-<div align="center">
-  <p><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></p>
-</div>
+Minimal OpenAI-compatible AI gateway written in Go, covering token auth, rate limiting, provider and model routing, request forwarding, SSE streaming proxy, health checks, metrics, and graceful shutdown. Its current release boundary is validated up to `1000 QPS / 1m` on the test machine.
+
+### [Shoal](https://github.com/fxwio/shoal)
+
+Production-oriented RAG service in Go with asynchronous document ingestion, hybrid retrieval via PostgreSQL FTS + `pgvector`, RRF fusion, grounded answer generation with citations, and persistent conversation memory.
+
+### [ccyaa.cn](https://ccyaa.cn) / [www](https://github.com/fxwio/www)
+
+My writing and design space, built with Astro. I use it to publish notes on AI infrastructure, RAG systems, Go backends, performance engineering, and the tradeoffs behind real implementations.
+
+## How I Work
+
+- Build for clear boundaries, observable behavior, and rollback from day one.
+- Treat latency, throughput, failure handling, and maintainability as first-class design constraints.
+- Prefer releasable slices over oversized platforms.
+
+## Toolbox
+
+- Backend: `Go` `gRPC` `REST` `OpenAI-compatible APIs`
+- Data: `PostgreSQL` `pgvector` `Redis` `Kafka`
+- Delivery: `Docker` `Kubernetes` `metrics` `smoke tests`
+- Web and writing: `Astro` `Markdown`
+
+## Elsewhere
+
+- Writing: [ccyaa.cn](https://ccyaa.cn)
+- Code: [github.com/fxwio](https://github.com/fxwio)
+- Contact: [wang.fuxiang@outlook.com](mailto:wang.fuxiang@outlook.com)
