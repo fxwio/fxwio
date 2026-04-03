@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  Go backend engineering, AI infrastructure, and production-minded systems design.
+  Engineer focused on AI infrastructure, system performance, and reliability.
 </p>
 
 ## About
 
-I build Go services for AI workloads: gateways, retrieval systems, and the operational tooling around release, observability, and performance.
+I build Go services for AI workloads, with a focus on AI infrastructure, system performance, and reliability.
 
-My bias is toward small surfaces, explicit boundaries, and systems that stay understandable under load and during failure.
+My bias is toward small surfaces, explicit boundaries, and systems that stay understandable under load, during failure, and through release.
 
 ## Selected Work
 
